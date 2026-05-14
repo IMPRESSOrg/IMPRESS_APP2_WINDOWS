@@ -1,0 +1,7 @@
+1. 更新Launcher功能及印出Launcher版本
+2. safe error catch
+3. log全送開關設定
+4. debug指令結果發送至mqtt debug頻道
+5. 每日重開機設定
+6. 廣告解壓縮與暫存修正
+7. 註冊重啟
