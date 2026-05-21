@@ -1,7 +1,5 @@
-1. 更新Launcher功能及印出Launcher版本
-2. safe error catch
-3. log全送開關設定
-4. debug指令結果發送至mqtt debug頻道
-5. 每日重開機設定
-6. 廣告解壓縮與暫存修正
-7. 註冊重啟
+1. 非效能模式替換播放器避免memory leak 
+2. 修正image switch為空時灰畫面
+3. 修正初次註冊要重啟才會連線
+4. Log失敗三次不重傳
+5. 修正Frame為空時有灰畫面
